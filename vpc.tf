@@ -7,3 +7,8 @@ resource "aws_vpc" "vpc" {
     Environment = "${var.environment}"
   }
 }
+
+
+
+
+####
